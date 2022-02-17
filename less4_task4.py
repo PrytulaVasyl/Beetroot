@@ -5,4 +5,5 @@ while True:
         break
     else:
         print('You are wrong')
-        value = int(input('Think twice: '))
+        value \
+        = int(input('Think twice: '))
