@@ -1,0 +1,5 @@
+print ( "hello, what is you name" )
+Vasyl = input ()
+print ( "Hello,Vasyl" )
+print ("How old you?")
+age = input ()
